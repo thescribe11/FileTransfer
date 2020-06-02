@@ -11,7 +11,7 @@ Raschio File Transfer Tools is a set of command line tools for sending files bet
 In PowerShell navigate to the directory containing the file you want to send, and then type `send <filename>`. This puts your file on the network.  
 **Note: files sent using this command will be only be receivable by one (1) connection. If you want to get it to multiple computers, you will have to use the `send` tool for each instance.**
 
-Alternatively, you can right-click a file in Windows Explorer, and then click on the `File Transfer Tools` option in the Send To submenu.
+Alternatively, you can right-click a file in Windows Explorer, and then click on the `File Transfer Tools` option in the `Send To` submenu.
 
 ### Receiving
 
